@@ -1,2 +1,0 @@
-# Practice
-Learning Programming language 
